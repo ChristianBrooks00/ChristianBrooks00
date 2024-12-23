@@ -8,4 +8,4 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ChristianBrooks00/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ChristianBrooks00/configure-ad)
-  - [How-to-Setup-and-Use-a-VPN-within-Azure](https://github.com/ChristianBrooks00/azure-network-protocols)
+  - [How-to-Setup-and-Use-a-VPN-within-Azure](https://github.com/ChristianBrooks00/Setup-and-Use-a-VPN-in-Azure)
